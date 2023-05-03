@@ -9,8 +9,6 @@
   </sub>
 </div>
 
-👉  Demo: 
-
 # 💻 Tecnologias
 
 Esse projeto foi feito usando as seguintes tecnologias:
@@ -33,6 +31,7 @@ Front end do projeto:
 $ gh repo clone lucasdamasceno96/crud-springboot
 $ Go to folder using terminal
 $ Run o projeto
+$ http://localhost:8080
 
 ```
 
@@ -52,7 +51,7 @@ Aqui vão algumas dicas:
 
 # 📕 Licença
 
-Lançado em 2022
+Lançado em 2023
 
 Feito por Lucas Damasceno
 Este projeto está sob a [licença MIT](./LICENSE).
