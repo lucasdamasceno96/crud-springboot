@@ -22,7 +22,7 @@ Esse projeto foi feito usando as seguintes tecnologias:
 <p> Esta é uma Api para cadastrar "clientes" usando nome, idade e cidade. </p> 
 <p> É possivel cadastrar, alterar informacoes e deletar o cliente. </p> 
 
-Front end do projeto: 
+<a href="https://github.com/lucasdamasceno96/angular-crud"> Front end do projeto </a> 
 
 # 🚧 Como fazer funcionar
 
@@ -30,6 +30,7 @@ Front end do projeto:
 # Clone Repository
 $ gh repo clone lucasdamasceno96/crud-springboot
 $ Go to folder using terminal
+$ Coloque seu usuario e senha do banco de dados mysql
 $ Run o projeto
 $ http://localhost:8080
 
